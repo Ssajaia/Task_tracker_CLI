@@ -1,4 +1,4 @@
-project URL: [https://github.com/Ssajaia/Task_tracker_CLI.git](https://roadmap.sh/projects/task-tracker)
+
 
 # Task Tracker CLI
 
@@ -95,4 +95,5 @@ Edit
 
 --- 
 
-Let me know if you want this saved into an actual `README.md` file!
+
+project URL: [https://github.com/Ssajaia/Task_tracker_CLI.git](https://roadmap.sh/projects/task-tracker)
