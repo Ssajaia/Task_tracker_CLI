@@ -1,4 +1,4 @@
-project URL: https://github.com/Ssajaia/Task_tracker_CLI.git
+project URL: [https://github.com/Ssajaia/Task_tracker_CLI.git](https://roadmap.sh/projects/task-tracker)
 
 # Task Tracker CLI
 
